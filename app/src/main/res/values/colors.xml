@@ -6,4 +6,5 @@
     <color name="colorPrimaryComplimentary">#4C5C68</color>
     <color name="colorAccent">#1985A1</color>
     <color name="colorRecyclerViewPrimary">#FFFFFF</color>
+    <color name="white">#FFFFFF</color>
 </resources>
